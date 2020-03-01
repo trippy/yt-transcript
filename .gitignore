@@ -111,3 +111,6 @@ dmypy.json
 .pyre/
 
 # End of gitignore file
+/.DS_Store
+/youtube_transcript_api
+/youtube_transcript_api/.DS_Store
