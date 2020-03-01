@@ -1,0 +1,6 @@
+requests
+
+# pip install requests
+
+# if error:
+# pip install youtube_transcript_api
